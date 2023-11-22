@@ -17,6 +17,10 @@
     "paths": {
       "@nxreactsandbox/modules/orders": ["modules/orders/src/index.ts"],
       "@nxreactsandbox/modules/products": ["modules/products/src/index.ts"],
+      "@nxreactsandbox/modules/shared/ui": ["modules/shared/ui/src/index.ts"],
+      "@nxreactsandbox/modules/shared/ui/ui": [
+        "modules/shared/ui/ui/src/index.ts"
+      ],
       "@nxreactsandbox/products": ["modules/src/index.ts"]
     }
   },
